@@ -1,9 +1,9 @@
-# PHP CERTIFICATE GENRATOR
+# PHP CERTIFICATE GENERATOR
 This project is an extension of https://github.com/zedomel/certificate-generator. That was a command line application, modified to make it a web based app.
 
 ## Installation
 	
-You need composer to install it, run 'comoser install', it will install all dependencies
+You need composer to install it, run 'composer install', it will install all dependencies
 
 Import the sql file in your database and and MySQL connection fila name is portaldbiconnect.php and is located in '../private/php/' , make sure you have same folder structure or you can modify the following files according to your structure: index.php, download.php, genrate.php, createNew.php.
 
