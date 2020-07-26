@@ -1,4 +1,4 @@
-#PHP CERTIFICATE GENRATOR
+# PHP CERTIFICATE GENRATOR
 This project is an extension of https://github.com/zedomel/certificate-generator. That was a command line application, modified to make it a web based app.
 
 ## Installation
