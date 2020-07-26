@@ -8,7 +8,7 @@ $login=false;
 if($_POST){
 	extract($_POST);
 	//var_dump($_POST);
-	if($username=="admin" && $password=="cse@@cse"){
+	if($username=="admin" && $password=="admin"){
 		setcookie('_RECWRSP',base64_encode('CSEDEPT'),time()+(30*86400));
 		$login=true;
 	}
